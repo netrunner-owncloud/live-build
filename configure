@@ -13,6 +13,7 @@ echo "I: create configuration"
 export LB_BOOTSTRAP_INCLUDE="apt-transport-https gnupg initramfs-tools"
 
 lb config \
+ --apt aptitude \
  --architectures armhf \
  --archive-areas 'main contrib non-free' \
  --backports false \
