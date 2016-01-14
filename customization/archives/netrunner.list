@@ -1,4 +1,3 @@
-deb http://dci.ds9.pub:8081/qt5 unstable main
 deb http://dci.ds9.pub:8081/frameworks unstable main
 deb http://dci.ds9.pub:8081/plasma unstable main
 deb http://dci.ds9.pub:8081/extras unstable main
